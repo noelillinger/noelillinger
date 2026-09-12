@@ -31,11 +31,17 @@ I care about the details that make software feel right: a readable answer, a res
 
 ## Selected work
 
-| Project | What it does | Availability |
-| :--- | :--- | :--- |
-| [build-agent-plugins](https://github.com/noelillinger/build-agent-plugins) | A reusable agent skill for choosing, building and testing portable Agent Plugins, MCP servers and skill bundles. | Open source · MIT-0 |
-| [PipingData](https://pipingdata.org/) | An open-access piping reference with a component catalogue, weight calculators and practical explanations. | Live website · German |
-| [Soother](https://noelhub.org/en/projects/soother/) | A tactile iOS experiment: a soft bubble, responsive motion and haptics. A little moment with nothing to get done. | In development |
+### [build-agent-plugins](https://github.com/noelillinger/build-agent-plugins)
+
+**Open source · MIT-0.** A reusable agent skill for choosing, building and testing portable Agent Plugins, MCP servers and skill bundles.
+
+### [PipingData](https://pipingdata.org/)
+
+**Live website · German.** An open-access piping reference with a component catalogue, weight calculators and practical explanations.
+
+### [Soother](https://noelhub.org/en/projects/soother/)
+
+**In development.** A tactile iOS experiment: a soft bubble, responsive motion and haptics. A little moment with nothing to get done.
 
 ## How I build
 
