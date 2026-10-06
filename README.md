@@ -61,7 +61,7 @@ I use AI tools deliberately, alongside hands-on design, development and testing.
 
 ## Work with me
 
-I build custom apps and web applications, and set up **OpenClaw workspaces** around your projects, files and workflows. You work directly with me, remotely or in person when needed.
+I build custom apps and web applications, and set up **OpenClaw workspaces** around your projects, files and workflows. You work directly with me, remotely. In-person meetings and travel can be arranged separately.
 
 A setup can include model selection, scoped tool access, documented workflows, an introduction and a **Miracles connection for your iPhone or iPad**. Cloud models and local Ollama models have different capabilities and data flows; we choose and test what fits. Miracles is currently free for everyone.
 
