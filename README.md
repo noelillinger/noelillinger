@@ -11,13 +11,13 @@
 
 ## Hi, I'm Noel.
 
-I'm a self-taught software builder in Germany, with a background in pipe fabrication, team coordination and design. I turn the friction I encounter into tools I want to use — from native iPhone experiences to practical web tools and AI workflows.
+I'm an independent software developer in Germany. Around 20 years across web development, design, software, marketing and earlier photography work have shaped how I build. Hands-on experience in pipe fabrication and coordination keeps me focused on tools that work in practice.
 
 I care about the details that make software feel right: a readable answer, a responsive gesture, a clear calculation, a workflow that makes sense.
 
-## Currently building · Miracles
+## Miracles · available on the App Store
 
-**Your assistant. Right here.**
+**A home for your OpenClaw conversations.**
 
 [Miracles](https://miracles.noelhub.org/en/) is an independent native iOS client for your own OpenClaw assistant. It grew out of wanting to continue my everyday conversations naturally on iPhone.
 
@@ -25,15 +25,15 @@ I care about the details that make software feel right: a readable answer, a res
 - Photos, files, message replies and native text selection.
 - Your own OpenClaw gateway, agents and model access.
 
-**Status:** internal TestFlight testing; external beta in preparation. Requires iOS 26+ and your own gateway and model access. No public download yet.
+**Available free on the App Store** for iPhone and iPad. Requires iOS or iPadOS 26+ and your own OpenClaw gateway and model access. No in-app purchases or subscription; gateway operation and model usage may have separate costs.
 
-[Explore the app](https://miracles.noelhub.org/en/) · [Setup guide](https://miracles.noelhub.org/en/setup/)
+[Download Miracles](https://apps.apple.com/app/id6810838608) · [Explore the app](https://miracles.noelhub.org/en/) · [Setup guide](https://miracles.noelhub.org/en/setup/)
 
 ## Selected work
 
 ### A small suite for ideas and words
 
-Three tools I built for the way I work with Amber. **In private use**, not public sign-up products:
+Three tools I built for my own working day. **In private use**, not public sign-up products:
 
 - **[Spark](https://noelhub.org/en/projects/spark/)** captures ideas, tasks and questions with images, priorities and a record of progress. Its native iOS companion is in internal TestFlight testing.
 - **[Cadence](https://noelhub.org/en/projects/cadence/)** is a writing studio for website copy, posts and product stories, with sources, variants and revision history.
@@ -57,7 +57,15 @@ Three tools I built for the way I work with Amber. **In private use**, not publi
 
 Swift and SwiftUI for native experiences. TypeScript and web technologies for useful, accessible tools. MCP and agent workflows where they solve a concrete problem.
 
-I work with **Amber, my AI agent**, on research, design, implementation and review. I bring the direction, try things in practice and take responsibility for what I publish. [More about our collaboration →](https://noelhub.org/en/about/)
+I use AI tools deliberately, alongside hands-on design, development and testing. I set the direction and take responsibility for what I publish. [About me and my AI agent, Amber](https://noelhub.org/en/about/)
+
+## Work with me
+
+I build custom apps and web applications, and set up **OpenClaw workspaces** around your projects, files and workflows. You work directly with me, remotely or in person when needed.
+
+A setup can include model selection, scoped tool access, documented workflows, an introduction and a **Miracles connection for your iPhone or iPad**. Cloud models and local Ollama models have different capabilities and data flows; we choose and test what fits. Miracles is currently free for everyone.
+
+[Software development and OpenClaw setup](https://noelhub.org/en/ki-agenten/)
 
 ## In the OpenClaw ecosystem
 
